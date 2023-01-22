@@ -1,0 +1,44 @@
+[
+  {
+  "id": "1",
+  "name": "بسته اینترنتی",
+  "description": "خرید مستقیم بسته های اینترنتی",
+  "icon": "m",
+  "status": "active"
+  },
+  {
+    "id": "2",
+    "name": "شارژ اعتباری",
+    "description": "خرید شارژ آنی به صورت مستقیم",
+    "icon": "m",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "name": "کارت هدیه",
+    "description": "ارسال کار هدیه در کمتر از 10 دقیقه",
+    "icon": "m",
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "name": "اشتراک فیلمو",
+    "description": "خرذید اشتراک فیلیمو با پرداخت ارزی",
+    "icon": "m",
+    "status": "active"
+  },
+  {
+    "id": "5",
+    "name": "سفارش دسته گل",
+    "description": "خرید مستقیم بسته های اینترنتی",
+    "icon": "m",
+    "status": "trial"
+  },
+  {
+    "id": "6",
+    "name": "نیکوکاری",
+    "description": "این قابلیت به زودی فعال خواهد شد",
+    "icon": "m",
+    "status": "inactive"
+  }
+]

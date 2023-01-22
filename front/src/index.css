@@ -1,0 +1,40 @@
+*, *:before, *:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  height: 14em;
+  background-image: linear-gradient(to bottom, #02327b, #012a52);
+
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 77vh;
+}
+
+a {
+  color: azure;
+  font-size: 30px;
+}
+
+.icons {
+  margin: 1em 1em 9em 0;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.mainLogo {
+  width: 130px;
+  height: 50px;
+}

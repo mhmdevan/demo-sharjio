@@ -1,0 +1,10 @@
+.features {
+    margin: 30px;
+    direction: rtl;
+    display: flex;
+    gap: 0.25rem;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: scroll;
+    height: 20rem;
+}

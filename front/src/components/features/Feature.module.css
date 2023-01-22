@@ -1,0 +1,25 @@
+.feature {
+    width: 45%;
+    height: 6rem;
+    overflow: hidden;
+    background-color: #fafcff;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: #fff;
+    color: #2d5284;
+    direction: rtl;
+
+}
+
+.description {
+    font-size: 10px;
+    color: #99a8c0;
+}
+
+.title {
+    font-size: 16px;
+    margin-top: 16px;
+    margin-right: 4px;
+}
+
+.top {display: flex}

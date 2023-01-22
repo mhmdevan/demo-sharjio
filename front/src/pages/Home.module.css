@@ -1,0 +1,71 @@
+.home {
+    flex: 1;
+    background: #f5f9fd;
+    background-size: 50% auto;
+    min-height: 100% !important;
+    border-radius: 30px 30px 0 0;
+}
+
+.swiper {margin: 30px }
+
+.profile {
+    border-radius: 1em;
+    border-color: #0014ce;
+    float: right;
+    width: 70px;
+    height: 70px;
+
+    position: absolute;
+    top: -30px;
+    right: 14px;
+}
+
+.hi {
+    position: absolute;
+    top: -45px;
+    right: 90px;
+}
+
+.signIn {
+    font-size: 17px;
+    position: absolute;
+    top: -20px;
+    left: 20px;
+
+    width: 30%;
+    height: 40px;
+    background-image: linear-gradient(#02327b, #042962);
+    border-radius: 30px;
+    border-style: solid;
+    border-color: azure;
+    color: azure;
+    margin-left: 14px;
+}
+
+.description {
+    direction: rtl;
+    color: darkgrey;
+    font-size: 12px;
+    position: absolute;
+    top: 0;
+    right: 90px;
+}
+
+.profile img {
+    position: absolute;
+    top: 7px;
+    right: 4px;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.home p {
+    padding-top: 20px;
+    color: #fff;
+    text-align: right;
+}
+
+.firstLine {
+    position: relative;
+}

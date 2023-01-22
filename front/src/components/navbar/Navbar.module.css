@@ -1,0 +1,19 @@
+a {
+    color: azure;
+    font-size: 30px;
+}
+
+.icons {
+    margin: 1em 1em 9em 0;
+    display: flex;
+    width: 100%;
+    /* height: 50px; */
+    justify-content: space-between;
+    /* flex-grow: 2; */
+    /*margin-bottom: 150px;*/
+}
+
+.mainLogo {
+    width: 130px;
+    height: 50px;
+}
